@@ -103,5 +103,5 @@ MIT License
 
 ## Author
 
-**Julio Nunez Garcia**
+**Angel Nunez Garcia**
 B.S. Computer Science, San Diego State University
